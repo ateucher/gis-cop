@@ -14,3 +14,6 @@
 
 def add_one(x):
 	return x + 1
+
+def print_me():
+	print "This is a GitHub example."
